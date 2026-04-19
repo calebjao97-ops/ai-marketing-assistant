@@ -6,7 +6,7 @@ client = OpenAI(api_key="PASTE_YOUR_API_KEY_HERE")
 
 st.set_page_config(page_title="AI Marketing Pro", page_icon="🎨")
 
-st.title("🇵🇭 AI Marketing & Image Generator")
+st.title("Caleb AI Marketing & Image Generator")
 st.subheader("Caption + Visuals sa isang pindutan!")
 
 business = st.text_input("Ano ang business mo?")
